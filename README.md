@@ -109,19 +109,21 @@ The dataset was sourced from **Kaggle** and contains **7,043 rows and 23 attribu
 
 The project includes the following files:
 
-* 📑 **Report**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/REPORT.docx – Formal written report.
-* 🗂 **Raw Data**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/RAW%20DATA.xlsx
-* 📝 **SQL Queries**: Not all queries are uploaded.
-* 📊 **Power BI Dashboard**: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
+* 📑 **Report**: https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/REPORT.docx – Formal written report.
+* 🗂 **Raw Data**: https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/RAW%20DATA.xlsx
+* 📝 **SQL Queries**:  https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/SQLQuery1.sql
+https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/SQLQuery2.sql
+* 📊 **Power BI Dashboard**: https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/DASHBOARDS.pbix
 
  ## 🖼 Dashboard Previews  
+https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/CUSTOMER%20DASHBOARD.png
 
 ### 1️⃣ Overall Customer Dashboard  
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CUSTOMER%20DASHBOARD.png
+https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/CUSTOMER%20DASHBOARD.png
 
 
 ### 2️⃣ Churned Customers Dashboard  
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png 
+https://github.com/sarthakgupta12345678/-Customer-Churn-Analysis-Telecom-/blob/main/CHURNED%20CUSTOMER.png
 
 ---
 
